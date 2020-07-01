@@ -26,7 +26,7 @@
 		<open-commons-spring-jdbc.version>0.0.4</open-commons-spring-jdbc.version>
 		<open-commons-spring-web.version>0.2.0</open-commons-spring-web.version>
 		
-		<log4j.version>2.11.1</log4j.version>
+		<log4j.version>2.13.3</log4j.version>
 		<log4j-slf4j.version>2.11.1</log4j-slf4j.version>
 
 	</properties>
